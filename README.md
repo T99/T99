@@ -4,10 +4,10 @@
 
 ← That's me over there (not the blonde)!
 
-I'm a full-stack developer hailing from the Cherry Capital of the world, Traverse City, Michigan, where I'm currently working as a web developer for a local
+I'm a full-stack developer hailing from the Cherry Capital of the world, Traverse City, Michigan, where I'm currently employed as a web developer for a local
 marketing firm, Knorr Marketing.
 
-Outside of work, I spend time working on my side projects and mentoring FRC team 1711 - 'The Raptors' (a local highschool robotics team full of awesome people).
+Outside of work, I spend time working on my side projects and mentoring local FRC team 1711 - 'The Raptors' (a highschool robotics team full of awesome people).
  
   
   
