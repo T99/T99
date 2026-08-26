@@ -1,22 +1,29 @@
-<img align="left" width=300 src="img/tucker-and-i-bordered.jpg" alt="My dog Tucker and I." />
+<h1 align="center">Hi! I'm Trevor 👋</h1>
 
-# Hi! I'm Trevor.
+<p align="center">I'm a software engineer who cares about ergonomic code, great developer experiences, and occasionally making computers move things in the real world.</p>
 
-← That's me over there (not the blonde)!
+<p align="center">Based in Traverse City, MI, I spend a lot of my personal time programming and mentoring a local robotics team, FRC Team 1711, The RAPTORS.</p>
 
-I'm a full-stack developer hailing from the Cherry Capital of the world, Traverse City, Michigan, where I'm currently employed as a web developer for a local
-marketing firm, Knorr Marketing.
+<h2 align="center">Some tech I appreciate</h2>
 
-Outside of work, I spend time working on my side projects and mentoring local FRC team 1711 - 'The Raptors' (a highschool robotics team full of awesome people).
- 
-  
-  
-___
-Want to stalk me somewhere else? Find me on my website: https://trevorsea.rs/
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=typescript,rust,bash,react,nextjs,vite,docker,postgres,supabase,cloudflare,debian,linux,vim,idea,webstorm&perline=5" />
+</p>
 
-<a href="https://www.buymeacoffee.com/trevorsears">
-<img align="left" height=65 src="img/buymeacoffee-background.png" />
-</a>
- 
- 
-Has my code helped you build something awesome? [Buy me a coffee!](https://www.buymeacoffee.com/trevorsears)
+## Find Me Elsewhere
+
+<p align="center">
+ <a href="https://github.com/T99">
+  <img alt="GitHub - T99" src="https://img.shields.io/badge/GitHub-T99-orange?logo=github&link=https%3A%2F%2Fgithub.com%2FT99" />
+ </a>
+ <a href="https://www.linkedin.com/in/trevortsears">
+  <img alt="LinkedIn - Trevor Sears" src="https://img.shields.io/badge/LinkedIn-Trevor_Sears-blue.svg?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftrevortsears%2F&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgd2lkdGg9IjcyIj4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgPHBhdGggZD0iTTgsNzIgTDY0LDcyIEM2OC40MTgyNzgsNzIgNzIsNjguNDE4Mjc4IDcyLDY0IEw3Miw4IEM3MiwzLjU4MTcyMiA2OC40MTgyNzgsLTguMTE2MjQ1MDFlLTE2IDY0LDAgTDgsMCBDMy41ODE3MjIsOC4xMTYyNDUwMWUtMTYgLTUuNDEwODMwMDFlLTE2LDMuNTgxNzIyIDAsOCBMMCw2NCBDNS40MTA4MzAwMWUtMTYsNjguNDE4Mjc4IDMuNTgxNzIyLDcyIDgsNzIgWiIgZmlsbD0iIzAwN0VCQiI+PC9wYXRoPgogICAgPHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRiI+PC9wYXRoPgogIDwvZz4KPC9zdmc+Cg==" />
+ </a>
+ <a href="https://raptors1711.com/">
+  <img alt="FRC Team 1711" src="https://img.shields.io/badge/FRC_Team_1711-The_RAPTORS-darkgreen.svg?link=https%3A%2F%2Fraptors1711.com&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAgCAYAAABZyotbAAAEoklEQVRYR8WYTWgcVRzA/2+yqUnblGY3LSoVczAaxfTizUNv6aUJFqKCUKEJ7ActCD20BcGwJfUDK5WC1t3ZTT2kFROolyai9lIPgih+tFCqaTxUkkjRRLKYTdJs5sl/Mv+XN2/ezM5s4vq77P//Pua9376PyYaBD2be5PjZN/QuJKanGJXXjdQ1DmZvzeP6dpTFkLrKoRRRo5y2k5k3FwBgF8YkhtRFTpYiapDTdqDVQmQx5D+V00kREeW0jYPEkKhynPNO/GSM/UJlHoKkiAhy2obq+dLhJ8c5rz5BCcYYCyVFhJTTNgojhpAc5/wDADhO5VFg6XERy5jP/QFnbrfBzHKjKBOEkPM0KBaLcWvNmsO4mhjSeu9XYIYhcpWJ8QmYnZ214/b2dug+2O3UBEsRV6db4Mv7O0Uu2LG0Hd5/eUnkCh6xoPN19Y1TnjJk963vwWjdbccjIyOwvLTs1Phz+tZe+Hu1QeQESRmLRsLasf4F/16Owdk7e9YbyBiwD3K9MyKXiCyGqOXI4usn4YsGz+O0vHknAffK20ROkNTR/qPQ2NjYwxiboPmsWgDHf3pkvaELNghmz5BIHTwzoQd1fPsd7L9+g4pt8EwFnb+5fY/Cjf4jdmxxqy+TyXzmVG2QGj8PwE+I3IGkcKvilkXsi0X5slM/6OTgLpi9T4osSEydOAN4NT49dRlvvYJZsMvUNoTfjQnprzqAr0yK3EE+U8lUUsRIBDnXpeKZgJ+YdAPa9ZHlXhrbBq3NKyJ3kKUQPzEkipxrcLmjOmGcqPqOiiCH7yrLiQWS1FoqnYrR+FshtyViiNqesOU0L2B5pVLplGviQWJINblz++9vbsXMvLmUzqS3Uz+1D4I3qW5wBOVkKSSMGILtdM899dQcPLHzgV7s8NvnoaFSoWIADh8nZqYGVDHdFjn81nvQsLax6+gVoZuEjeaviKBxBJpdcKBtEY48XrJjrZj6zdNZUQcEgBXGWBMGhXzhAgf+GsZyfxJDwshpxvCKaaT2PlSBs8/+ace4C0SHXC53wGDG1xj7iem2SZhzFkVOFcPnu7arRgqhM0ttRQdaLUSdYJAYMv9Yh4j9uJ4ZgNKeNjv2k+P5HhETLrGQUkhkMfyMKkf9c7ncaYMZ72CsyvlJIfaEI0ghHrHY8gq8cO4CFcODpia4dtI+OoL+gX6IxWIil5EFSUjmUu7SMxVWuY0xyq1ePAQxzd+YpVIJRj8drUkK8Yipq0Xno/ujYdj115zIdaumcJExpv2NVi6Xv2lubn5eFCiUy2W4cvmKHasrSwRJIVXFdMiXQQjBSMiXUa1SiF0RdL782Go5y7JguDgs8s1IITWL4fmR+yHxeBz6XuwTeRjGRsdgYQH/27fBZqWQSGIG50OtM78NigKlr47Opzuhq6vLjm/+fBMmJz2/WlxshRTiEjv4YRFa5uedqg10t5tKNcFq4ITpGapcVCnEJaauVhghlUKu8Apn/BNREAAz2KFkMvm5KJDmcuzHh6HCWU1SCDNNcxA4nMHEEfsnMT3V4tT/L6irH1UKidyhXohtWYMUUlOnepHNZmPZbFb6/RSefwGOdp2RCNVB8AAAABBkZUJHODY3NDYyQ0Y0MTJGQ0E0QRy3nr0AAAAASUVORK5CYII=" />
+ </a>
+ <a href="https://resume.trevorsea.rs/">
+  <img alt="Trevor Sears - Resume" src="https://img.shields.io/badge/Trevor_Sears-Resume-blueviolet.svg?link=https%3A%2F%2Fresume.trevorsea.rs&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAgCAAAAAAk3keeAAABwUlEQVQoz43TPywDURwH8BusJAZphzaipQwl1GLAsVhERGKgLYmhJJYyGriERWJgNiAhNgnSmkiaSAyuVySiiaSVUGEhRf/p3e/9vLu+K6KOz0suefnlfX93797j2i1WS0lWSztXuSWJUgmitFXJmaP4i6iZM4kgg6JOFAD4LMkgmjiThEDwdmzgGAnideRME7lSUNKKCnmzjwoVEQLQ72hwUA2O7jSGtWIe9+sQRydRRqJmUwoBtlIm17bTROt2oTVD9FhMWcuquAsEGHQ2OalGZ48eq6TqR86ji+UXRBEPjw41JzJbiUKHGiTwCF+/kxXbVh7u7u9PzWmc9034qHHfTFaLDSN6LbU1NfbqpjRZ8k/7qSn/Qo71hOzjg+qVkJ9vS0rtbKEYxnRvs6tF5dK1uvoyLFYOBYKqg2BRICT/HUs3IRGL03GbuYkx8VgCWM9Up81OR1vIYWPsNl7fPnh5opLJ/PNT0Qv8p2d+Z31jfTO5R5+6tZ0865kZ4rv5npsx+mS6+OEs62kYa7h92Sm311Pg9Vyuukc8Xvd0jv2y3PKsMFcgzMV36USYXXnXiuK3c1WkqIfa8DoYXiSjK/gBfGds70+3lWwAAAAASUVORK5CYII=" />
+ </a>
+</p>
+
