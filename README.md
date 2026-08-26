@@ -1,8 +1,13 @@
-<h1 align="center">Hi! I'm Trevor 👋</h1>
+<h1 align="center">Hi! I'm Trevor 👋</h2>
 
 <p align="center">I'm a software engineer who cares about ergonomic code, great developer experiences, and occasionally making computers move things in the real world.</p>
 
 <p align="center">Based in Traverse City, MI, I spend a lot of my personal time programming and mentoring a local robotics team, FRC Team 1711, The RAPTORS.</p>
+
+<p align="center">
+ <img height=250 alt="FRC Team 1711's 2026 robot, Kleio" src="img/kleio-frc-2026-resized.jpg" />
+ <img height=250 alt="Leading a team meeting" src="img/frc-2026-coaching.jpeg" />
+</p>
 
 <h2 align="center">Some tech I appreciate</h2>
 
