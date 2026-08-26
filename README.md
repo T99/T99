@@ -10,7 +10,7 @@
  <img src="https://skillicons.dev/icons?i=typescript,rust,bash,react,nextjs,vite,docker,postgres,supabase,cloudflare,debian,linux,vim,idea,webstorm&perline=5" />
 </p>
 
-## Find Me Elsewhere
+<h2 align="center">Find Me Elsewhere</h2>
 
 <p align="center">
  <a href="https://github.com/T99">
